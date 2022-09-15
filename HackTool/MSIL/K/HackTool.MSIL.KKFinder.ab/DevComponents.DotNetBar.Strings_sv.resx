@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="cust_btn_close"><value>Stäng</value></data>
+  <data name="cust_btn_reset"><value>&amp;Återställ...</value></data>
+  <data name="barname_caption"><value>Nytt verktygsfält</value></data>
+  <data name="barrename_caption"><value>Byt namn</value></data>
+  <data name="cust_mnu_addremove"><value>&amp;Lägg till eller ta bort knappar</value></data>
+  <data name="barname_cancel"><value>Avbryt</value></data>
+  <data name="cust_btn_resetusage"><value>&amp;Återställ inställningar</value></data>
+  <data name="cust_tab_commands"><value>Kommandon</value></data>
+  <data name="cust_pm_reset"><value>Återställ</value></data>
+  <data name="cust_chk_showsk"><value>Visa k&amp;ortkommandon i knappbeskrivningar</value></data>
+  <data name="cust_chk_showst"><value>Visa knapp&amp;beskrivningar</value></data>
+  <data name="mdisysmenu_close"><value>Stäng</value></data>
+  <data name="cust_pm_stytextonly"><value>Endast text (alltid)</value></data>
+  <data name="cust_cbo_slide"><value>Glid</value></data>
+  <data name="cust_mnu_cust"><value>Anpassa...</value></data>
+  <data name="mdisysmenu_minimize"><value>Minimera</value></data>
+  <data name="cust_chk_delay"><value>Visa hela menyn efter viss fördröjning</value></data>
+  <data name="cust_tab_toolbars"><value>Verktygsfält</value></data>
+  <data name="barname_name"><value>&amp;Namn:</value></data>
+  <data name="cust_lbl_menuan"><value>Menyanimering:</value></data>
+  <data name="cust_cbo_none"><value>(Ingen)</value></data>
+  <data name="cust_cbo_fade"><value>Tona</value></data>
+  <data name="mdisysmenu_maximize"><value>Maximera</value></data>
+  <data name="cust_btn_new"><value>&amp;Nytt...</value></data>
+  <data name="cust_chk_fullmenus"><value>Visa alltid hela menyn</value></data>
+  <data name="cust_pm_name"><value>Namn:</value></data>
+  <data name="mdisystt_restore"><value>Återställ</value></data>
+  <data name="cust_btn_keyboard"><value>&amp;Tangentbord...</value></data>
+  <data name="cust_lbl_pmt"><value>Personligt anpassade menyer och verktygsfält</value></data>
+  <data name="cust_cbo_system"><value>Systemstandard</value></data>
+  <data name="cust_cbo_random"><value>Slumpvis</value></data>
+  <data name="cust_cbo_unfold"><value>Vik ut</value></data>
+  <data name="cust_lbl_cmdsins"><value>För att lägga till ett kommando i verktygsfältet, välj kategori och drag kommandot från denna ruta till ett verktygsfält.</value></data>
+  <data name="cust_pm_begingroup"><value>Påbörja gruppering</value></data>
+  <data name="barname_ok"><value>OK</value></data>
+  <data name="cust_lbl_other"><value>Övrigt:</value></data>
+  <data name="mdisystt_minimize"><value>Minimera</value></data>
+  <data name="cust_caption"><value>Anpassa</value></data>
+  <data name="cust_lbl_tlbs"><value>&amp;Verktygsfält:</value></data>
+  <data name="cust_lbl_cats"><value>Kate&amp;gorier:</value></data>
+  <data name="cust_lbl_cmds"><value>Komman&amp;don:</value></data>
+  <data name="cust_tab_options"><value>Alternativ</value></data>
+  <data name="cust_mnu_reset"><value>Återställ</value></data>
+  <data name="cust_pm_styimagetext"><value>Bild och text (alltid)</value></data>
+  <data name="cust_mnu_tooltip"><value>Alternativ</value></data>
+  <data name="mdisystt_close"><value>Stäng</value></data>
+  <data name="cust_btn_delete"><value>Ta bort</value></data>
+  <data name="cust_pm_delete"><value>Ta bort</value></data>
+  <data name="cust_msg_delete"><value>Är du säker på att du vill ta bort verktygsfältet &lt;barname&gt;?</value></data>
+  <data name="mdisysmenu_size"><value>Ändra storlek</value></data>
+  <data name="mdisysmenu_move"><value>Flytta</value></data>
+  <data name="mdisysmenu_next"><value>Nästa</value></data>
+  <data name="mdisysmenu_restore"><value>Återställ</value></data>
+  <data name="cust_pm_stydef"><value>Standardstil</value></data>
+  <data name="cust_btn_rename"><value>&amp;Byt namn...</value></data>
+  <data name="barname_msginvalidname"><value>Verktygsfältets namn kan inte vara tomt.</value></data>
+  </root>

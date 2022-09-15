@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="cust_btn_close"><value>Fermer</value></data>
+  <data name="cust_btn_reset"><value>&amp;Réinitialiser...</value></data>
+  <data name="barname_caption"><value>Nouvelle barre d'outils</value></data>
+  <data name="barrename_caption"><value>Renommer la barre d'outils</value></data>
+  <data name="cust_mnu_addremove"><value>&amp;Ajouter ou supprimer des boutons</value></data>
+  <data name="barname_cancel"><value>Annuler</value></data>
+  <data name="cust_btn_resetusage"><value>&amp;Réinitialiser mes données personnelles</value></data>
+  <data name="sys_morebuttons"><value>Autres boutons</value></data>
+  <data name="cust_tab_commands"><value>Commandes</value></data>
+  <data name="cust_pm_reset"><value>Réinitialiser</value></data>
+  <data name="cust_chk_showsk"><value>Afficher les touches de &amp;raccourcis sur les info-bulles</value></data>
+  <data name="cust_chk_showst"><value>Afficher les info-&amp;bulles des barres d'outils</value></data>
+  <data name="mdisysmenu_close"><value>Fermer</value></data>
+  <data name="cust_pm_stytextonly"><value>Texte seulement (Toujours)</value></data>
+  <data name="cust_cbo_slide"><value>Défilement</value></data>
+  <data name="sys_custombar"><value>Barre personnalisée</value></data>
+  <data name="cust_mnu_cust"><value>Personnaliser...</value></data>
+  <data name="mdisysmenu_minimize"><value>Réduire</value></data>
+  <data name="cust_chk_delay"><value>Afficher les menus complets après quelques instants</value></data>
+  <data name="cust_tab_toolbars"><value>Barre d'outils</value></data>
+  <data name="barname_name"><value>&amp;Nom de la barre d'outils:</value></data>
+  <data name="cust_lbl_menuan"><value>Dynamique des menus:</value></data>
+  <data name="cust_cbo_none"><value>(Aucune)</value></data>
+  <data name="cust_cbo_fade"><value>Fondu</value></data>
+  <data name="mdisysmenu_maximize"><value>Agrandir</value></data>
+  <data name="cust_btn_new"><value>C&amp;réer...</value></data>
+  <data name="cust_chk_fullmenus"><value>Toujours afficher les menus complets</value></data>
+  <data name="cust_pm_name"><value>Nom:</value></data>
+  <data name="mdisystt_restore"><value>Restaurer</value></data>
+  <data name="cust_btn_keyboard"><value>&amp;Clavier...</value></data>
+  <data name="cust_lbl_pmt"><value>Personnalisation des menus et barres d'outils</value></data>
+  <data name="cust_cbo_system"><value>Paramètres par défaut</value></data>
+  <data name="cust_cbo_random"><value>Aléatoire</value></data>
+  <data name="cust_cbo_unfold"><value>Déroulant</value></data>
+  <data name="cust_lbl_cmdsins"><value>Pour ajouter une commande à une barre d'outils, sélectionnez une des catégories ci-dessous et faites-la glisser vers cette barre.</value></data>
+  <data name="cust_pm_begingroup"><value>Début du groupe</value></data>
+  <data name="barname_ok"><value>OK</value></data>
+  <data name="cust_lbl_other"><value>Autre:</value></data>
+  <data name="mdisystt_minimize"><value>Réduire</value></data>
+  <data name="cust_caption"><value>Personnaliser</value></data>
+  <data name="cust_lbl_tlbs"><value>B&amp;arres d'outils:</value></data>
+  <data name="cust_lbl_cats"><value>Caté&amp;gories:</value></data>
+  <data name="cust_lbl_cmds"><value>Comman&amp;des:</value></data>
+  <data name="cust_tab_options"><value>Options</value></data>
+  <data name="cust_mnu_reset"><value>Réinitialiser la barre d'outils</value></data>
+  <data name="cust_pm_styimagetext"><value>Image et texte (Toujours)</value></data>
+  <data name="cust_mnu_tooltip"><value>Options de la barre d'outils</value></data>
+  <data name="mdisystt_close"><value>Fermer</value></data>
+  <data name="cust_btn_delete"><value>Supprimer</value></data>
+  <data name="cust_pm_delete"><value>Supprimer</value></data>
+  <data name="cust_msg_delete"><value>Etes-vous certain de vouloir supprimer la barre d'outils &lt;barname&gt; ?</value></data>
+  <data name="mdisysmenu_size"><value>Taille</value></data>
+  <data name="mdisysmenu_move"><value>Déplacer</value></data>
+  <data name="mdisysmenu_next"><value>Suivant</value></data>
+  <data name="mdisysmenu_restore"><value>Restaurer</value></data>
+  <data name="cust_pm_stydef"><value>Style par défaut</value></data>
+  <data name="cust_btn_rename"><value>&amp;Renommer...</value></data>
+  <data name="barname_msginvalidname"><value>Vous devez entrer un nom.</value></data>
+  </root>

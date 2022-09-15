@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="cust_btn_close"><value>Chiudi</value></data>
+  <data name="cust_btn_reset"><value>Rei&amp;mposta...</value></data>
+  <data name="barname_caption"><value>Nuova...</value></data>
+  <data name="barrename_caption"><value>Rinomina...</value></data>
+  <data name="cust_mnu_addremove"><value>&amp;Aggiungi o rimuovi pulsanti</value></data>
+  <data name="barname_cancel"><value>Annulla</value></data>
+  <data name="cust_btn_resetusage"><value>&amp;Cancella informazioni sull'utilizzo</value></data>
+  <data name="sys_morebuttons"><value>Altri pulsanti</value></data>
+  <data name="cust_tab_commands"><value>Comandi</value></data>
+  <data name="cust_pm_reset"><value>Reimposta</value></data>
+  <data name="cust_chk_showsk"><value>Mostra &amp;tasti di scelta rapida nella descrizione comandi</value></data>
+  <data name="cust_chk_showst"><value>Mostra de&amp;scrizione comandi</value></data>
+  <data name="mdisysmenu_close"><value>Chiudi</value></data>
+  <data name="cust_pm_stytextonly"><value>Solo testo (sempre)</value></data>
+  <data name="cust_cbo_slide"><value>Scorrimento 2</value></data>
+  <data name="sys_custombar"><value>Barra personalizzata</value></data>
+  <data name="cust_mnu_cust"><value>Personalizza...</value></data>
+  <data name="mdisysmenu_minimize"><value>Riduci a icona</value></data>
+  <data name="cust_chk_delay"><value>Mostra menu completi dopo alcuni istanti</value></data>
+  <data name="cust_tab_toolbars"><value>Barre degli strumenti</value></data>
+  <data name="barname_name"><value>&amp;Nome:</value></data>
+  <data name="cust_lbl_menuan"><value>Animazione menu:</value></data>
+  <data name="cust_cbo_none"><value>(Nessuna)</value></data>
+  <data name="cust_cbo_fade"><value>Sfumatura</value></data>
+  <data name="mdisysmenu_maximize"><value>Ingrandisci</value></data>
+  <data name="cust_btn_new"><value>N&amp;uova...</value></data>
+  <data name="cust_chk_fullmenus"><value>Mostra sempre menu completi</value></data>
+  <data name="cust_pm_name"><value>Nome:</value></data>
+  <data name="mdisystt_restore"><value>Ripristina</value></data>
+  <data name="cust_btn_keyboard"><value>&amp;Tastiera...</value></data>
+  <data name="cust_lbl_pmt"><value>Menu e barre degli strumenti personalizzati</value></data>
+  <data name="cust_cbo_system"><value>Default di sistema</value></data>
+  <data name="cust_cbo_random"><value>Casuale</value></data>
+  <data name="cust_cbo_unfold"><value>Scorrimento 1</value></data>
+  <data name="cust_lbl_cmdsins"><value>Per aggiungere un comando a una barra degli strumenti, selezionare una categoria e trascinare il comando da questa finestra nella barra degli strumenti.</value></data>
+  <data name="cust_pm_begingroup"><value>Inizia gruppo</value></data>
+  <data name="barname_ok"><value>OK</value></data>
+  <data name="cust_lbl_other"><value>Altro:</value></data>
+  <data name="mdisystt_minimize"><value>Riduci a icona</value></data>
+  <data name="cust_caption"><value>Personalizza</value></data>
+  <data name="cust_lbl_tlbs"><value>B&amp;arre degli strumenti:</value></data>
+  <data name="cust_lbl_cats"><value>Cate&amp;gorie:</value></data>
+  <data name="cust_lbl_cmds"><value>Coman&amp;di:</value></data>
+  <data name="cust_tab_options"><value>Opzioni</value></data>
+  <data name="cust_mnu_reset"><value>Reimposta barra degli strumenti</value></data>
+  <data name="cust_pm_styimagetext"><value>Immagine e testo (sempre)</value></data>
+  <data name="cust_mnu_tooltip"><value>Opzioni barra degli strumenti</value></data>
+  <data name="mdisystt_close"><value>Chiudi</value></data>
+  <data name="cust_btn_delete"><value>Elimina</value></data>
+  <data name="cust_pm_delete"><value>Elimina</value></data>
+  <data name="cust_msg_delete"><value>Eliminare la barra degli strumenti &lt;barname&gt;?</value></data>
+  <data name="mdisysmenu_size"><value>Ridimensiona</value></data>
+  <data name="mdisysmenu_move"><value>Sposta</value></data>
+  <data name="mdisysmenu_next"><value>Successivo</value></data>
+  <data name="mdisysmenu_restore"><value>Ripristina</value></data>
+  <data name="cust_pm_stydef"><value>Stile predefinito</value></data>
+  <data name="cust_btn_rename"><value>&amp;Rinomina...</value></data>
+  <data name="barname_msginvalidname"><value>Impossibile lasciare vuoto il nome della barra degli strumenti. Immettere un nome.</value></data>
+  </root>

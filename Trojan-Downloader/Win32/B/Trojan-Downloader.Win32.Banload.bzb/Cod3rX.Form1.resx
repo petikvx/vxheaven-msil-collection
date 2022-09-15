@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="Form1.Icon" mimetype="application/x-microsoft.net.object.binary.base64"><value>AAEAAAD/////AQAAAAAAAAAMAgAAAFRTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj0xLjAuMzMwMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5JY29uAgAAAAhJY29uRGF0YQhJY29uU2l6ZQcEAhNTeXN0ZW0uRHJhd2luZy5TaXplAgAAAAIAAAAJAwAAAAX8////E1N5c3RlbS5EcmF3aW5nLlNpemUCAAAABXdpZHRoBmhlaWdodAAACAgCAAAAAAAAAAAAAAAPAwAAAP4HAAACAAABAAEAMDAQAAAAAADoBwAAFgAAACgAAAAwAAAAYAAAAAEABAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACAAAAAgIAAgAAAAIAAgACAgAAAgICAAMDAwAAAAP8AAP8AAAD//wD/AAAA/wD/AP//AAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABERERERAAAAAAAAAAAAAAAAAAAAAAABERAAAAABERAAAAAAAAAAAAAAAAAAAAEQARmZjMzQABEQAAAAAAAAAAAAAAAAAAER3iHx7u7uzdAREAAAAAAAAAAAAAAAABoiId3x3u7u7uzQERAAAAAAAAAAAAAQGiIiHd8xnu7u7u7swREAAAAAAAAAAAER4iIiHfMx3u7u7u7u7QEQAAAAAAAAABEeIiId3iIj/iIh7u7u7sARAAAAAAAAARIiIh3eP//////+Ie7u7uwBEAAAAAAAER4d3d4//////////+Hu7u7AEQAAAAAAAd3d3eP///////////4e7u7tEQAAAAAAGfHxo//////////////h7u7swRAAAAARHZsx///////////////+Hu7uzBAAAAABmZmf///////////////j4e7u7BEAAAER2Znj//////////////4iIh7u7MEAAAAZmZo/////4j///////+IiIhzs7sEQAAEZmZ4////+GZ4j/////iIiIh3uzsAQAAGZmaPj///+EZmeIj///iIiIiHOzswQAAGZmaIiI//+EZmZniIj4iIiIiHMzswRAAGZmeIiIiPiEREZmZ4iIiIiIiHczOwRABGZmeIiIiIh0RERERGd4iIiIiHczOwBABGZmeIiIiIh0RERERERneIiIh3czOzBABGREeIiIiIh0REREREREZ4iId3czOzBABHZmeIiIiIh0RERERERERGiId3czMzBAAZmZeIiIiIh0RERERERERHiHd3ciIiBAAZmZeIiIiIh2RkREREREZ4iHd3ciIiBAQZmZeIiIiIiHd3dmZkR4iIiId3YiIiBAQJmZeIiIiIiHd3d3d3iIiIiIiHciIgRAAJmZeIiIiIiIiId3eIiIiIiIiHdyIgQAAJl3iIiIiI+IiIiIiIiIiIiIiHdyogQAABd3d4iIj/+IiIj//4iIiIiIh3dyogQAAAd3h4+P///4iP///4iIiIiIh3d3oEAAAAeIiH////////////iIiIiId3d3IEAAAACIiHj///////////+IiIiId3d3YAAAAAB4iIf///////////+IiIiHd3d3BAAAAAAIiIiP///////////4iIh3d3dwAAAAAAAHiIiI///////////4iId3d3dgQAAAAAAAeIiIiP//////////iHd3d3cEAAAAAAAAB4iIiI/////////4h4eHd3BAAAAAAAAAAHiIiIiI//////iHiIh3hwQAAAAAAAAAAAeIiIiIiIiIiIiIiIiIcEAAAAAAAAAAAAB4iIiIiIiIiIiIiIiGBAAAAAAAAAAAAAAAeIiIiIiIiIiIiIcAQAAAAAAAAAAAAAAEAHiIiIiIiIiIh2BAAAAAAAAAAAAAAAAABAB3iIiIiIh3AEAAAAAAAAAAAAAAAAAAAAQAAEd3dgAAQAAAAAAAAAAAAAAAAAAAAAAAREAABEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////AAD//+AH//8AAP//AAD//wAA//wAAD//AAD/8AAAD/8AAP/AAAAD/wAA/4AAAAH/AAD/AAAAAP8AAP4AAAAAfwAA/AAAAAA/AAD4AAAAAB8AAPAAAAAAHwAA8AAAAAAPAADgAAAAAA8AAOAAAAAABwAAwAAAAAAHAADAAAAAAAMAAIAAAAAAAwAAgAAAAAADAACAAAAAAAEAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAwAAgAAAAAADAACAAAAAAAMAAIAAAAAABwAAwAAAAAAHAADAAAAAAA8AAOAAAAAADwAA4AAAAAAfAADwAAAAAB8AAPAAAAAAPwAA+AAAAAB/AAD8AAAAAP8AAP4AAAAB/wAA/wAAAAP/AAD/wAAAB/8AAP/gAAAf/wAA//gAAH//AAD//gAB//8AAP//wA///wAACw==</value></data><data name="ToolTip1.Location" mimetype="application/x-microsoft.net.object.binary.base64"><value>AAEAAAD/////AQAAAAAAAAAMAgAAAFRTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj0xLjAuMzMwMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABRTeXN0ZW0uRHJhd2luZy5Qb2ludAIAAAABeAF5AAAICAIAAAARAAAAEQAAAAs=</value></data></root>

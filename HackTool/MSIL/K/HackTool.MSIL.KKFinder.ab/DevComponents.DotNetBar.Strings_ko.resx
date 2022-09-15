@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="cust_btn_close"><value>닫기</value></data>
+  <data name="cust_btn_reset"><value>재설정(&amp;R)...</value></data>
+  <data name="barname_caption"><value>새 도구막대</value></data>
+  <data name="barrename_caption"><value>도구막대 이름 바꾸기</value></data>
+  <data name="cust_mnu_addremove"><value>버튼 추가 또는 제거(&amp;A)</value></data>
+  <data name="barname_cancel"><value>취소</value></data>
+  <data name="cust_btn_resetusage"><value>메뉴 및 도구막대를 원래대로(&amp;R)</value></data>
+  <data name="sys_morebuttons"><value>도구 모음 옵션</value></data>
+  <data name="cust_tab_commands"><value>명령</value></data>
+  <data name="cust_pm_reset"><value>재설정</value></data>
+  <data name="cust_chk_showsk"><value>스크린 팁에 단축키 표시(&amp;S)</value></data>
+  <data name="cust_chk_showst"><value>도구막대에 스크린 팁 표시(&amp;T)</value></data>
+  <data name="mdisysmenu_close"><value>닫기</value></data>
+  <data name="cust_pm_stytextonly"><value>텍스트만(항상)</value></data>
+  <data name="cust_cbo_slide"><value>슬라이드</value></data>
+  <data name="sys_custombar"><value>사용자 막대</value></data>
+  <data name="cust_mnu_cust"><value>사용자화...</value></data>
+  <data name="mdisysmenu_minimize"><value>최소화</value></data>
+  <data name="cust_chk_delay"><value>자동으로 전체 메뉴 표시</value></data>
+  <data name="cust_tab_toolbars"><value>도구막대</value></data>
+  <data name="barname_name"><value>도구막대 이름(&amp;T):</value></data>
+  <data name="cust_lbl_menuan"><value>메뉴 애니메이션:</value></data>
+  <data name="cust_cbo_none"><value>(없음)</value></data>
+  <data name="cust_cbo_fade"><value>흐리게</value></data>
+  <data name="mdisysmenu_maximize"><value>최대화</value></data>
+  <data name="cust_btn_new"><value>새로 만들기(&amp;N)...</value></data>
+  <data name="cust_chk_fullmenus"><value>전체 메뉴 항상 표시</value></data>
+  <data name="cust_pm_name"><value>이름:</value></data>
+  <data name="mdisystt_restore"><value>복원</value></data>
+  <data name="cust_btn_keyboard"><value>키보드(&amp;K)...</value></data>
+  <data name="cust_lbl_pmt"><value>즐겨 쓰는 메뉴 및 도구막대</value></data>
+  <data name="cust_cbo_system"><value>시스템 기본값</value></data>
+  <data name="cust_cbo_random"><value>임의</value></data>
+  <data name="cust_cbo_unfold"><value>전개</value></data>
+  <data name="cust_lbl_cmdsins"><value>막대에 명령을 추가하려면 범주를 선택하고 해당 명령을 이 상자에서 막대로 끕니다.</value></data>
+  <data name="cust_pm_begingroup"><value>그룹 시작</value></data>
+  <data name="barname_ok"><value>확인</value></data>
+  <data name="cust_lbl_other"><value>기타:</value></data>
+  <data name="mdisystt_minimize"><value>최소화</value></data>
+  <data name="cust_caption"><value>사용자화</value></data>
+  <data name="cust_lbl_tlbs"><value>도구막대(&amp;A):</value></data>
+  <data name="cust_lbl_cats"><value>범주(&amp;G):</value></data>
+  <data name="cust_lbl_cmds"><value>명령(&amp;D):</value></data>
+  <data name="cust_tab_options"><value>옵션</value></data>
+  <data name="cust_mnu_reset"><value>막대 재설정</value></data>
+  <data name="cust_pm_styimagetext"><value>이미지 및 텍스트(항상)</value></data>
+  <data name="cust_mnu_tooltip"><value>막대 옵션</value></data>
+  <data name="mdisystt_close"><value>닫기</value></data>
+  <data name="cust_btn_delete"><value>삭제</value></data>
+  <data name="cust_pm_delete"><value>삭제</value></data>
+  <data name="cust_msg_delete"><value>&lt;barname&gt; 도구막대를 삭제하시겠습니까?</value></data>
+  <data name="mdisysmenu_size"><value>크기</value></data>
+  <data name="mdisysmenu_move"><value>이동</value></data>
+  <data name="mdisysmenu_next"><value>다음</value></data>
+  <data name="mdisysmenu_restore"><value>복원</value></data>
+  <data name="cust_pm_stydef"><value>기본 유형</value></data>
+  <data name="cust_btn_rename"><value>이름 바꾸기(&amp;R)...</value></data>
+  <data name="barname_msginvalidname"><value>도구막대 이름은 비워 둘 수 없습니다.</value></data>
+  </root>
