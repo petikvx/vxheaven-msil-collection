@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>ServiceManager</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net20</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="ServiceManager.frmMain.DotNetBarManager1.xml" />
+    <None Remove="ServiceManager.exe.licenses" />
+    <EmbeddedResource Include="ServiceManager.frmMain.DotNetBarManager1.xml" />
+    <EmbeddedResource Include="ServiceManager.exe.licenses" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="DevComponents.DotNetBar" />
+    <Reference Include="PCL" />
+    <Reference Include="System.ServiceProcess">
+      <HintPath>/home/petik/dotnet/shared/Microsoft.NETCore.App/6.0.8/System.ServiceProcess.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+  </ItemGroup>
+</Project>
